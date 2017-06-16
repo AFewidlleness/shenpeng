@@ -1,0 +1,79 @@
+#BODY{
+	background-color: #FFFFFF;
+}
+.NaVWeiLei:hover{
+	background-color: #e7e7e7;
+}
+#nowzz{
+	font-family: "楷体";
+	font-size: 20px;
+	text-align: center;
+}
+#nowzz a{
+	text-decoration: none;
+}
+#nowzz a:hover{
+	text-decoration: underline;
+}
+#MMM{
+	background-image: url(../img/body.gif);
+}
+.LunBoTu{
+	color: #e7e7e7;
+}
+.LunBoTu:hover{
+	color: #e7e7e7;
+	text-decoration: underline;
+}
+.WENBEN p{
+	text-indent: 2em;
+}
+#BIAODAN{
+	margin-right: 90px;
+}
+.NEIron{
+	text-indent: 2em;
+	line-height: 30px;
+}
+@media screen and (max-width: 800px){      
+.TUpiantu{display: none;}
+}
+@media screen and (max-width: 1024px){      
+.TUpiantu{width: 945px;}
+}
+@media screen and (max-width: 1920px){      
+.YINchang{display: none;}
+}
+@media screen and (max-width: 414px){      
+.YINchang{
+	width: 384px;
+	display: block;
+	}
+}
+@media screen and (max-width: 375px){      
+.YINchang{width: 345px;}
+}
+@media screen and (max-width: 360px){      
+.YINchang{width: 330px;}
+}
+@media screen and (max-width: 320px){      
+.YINchang{width: 290px;}
+}
+
+@media screen and (max-width: 1024px){      
+.SOUSUO{display: none;}
+}
+@media screen and (max-width: 750px){      
+.SOUSUO{display: block;}
+}
+@media screen and (max-width: 1024px){      
+.DIANJI{display: none}
+}
+@media screen and (max-width: 750px){      
+.DIANJI{display: block;}
+}
+@media screen and (max-width: 375px){      
+#CCC span{
+	display: none;
+}
+}
